@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # File Tree Manager — Spring Boot + React
 
@@ -44,3 +45,6 @@ npm run dev
 Use the included `.vscode` to run both front & back together:
 - **Run and Debug → "Run Frontend + Backend"**
 
+=======
+# filerepo
+>>>>>>> 7435f41f7362df2f71b00c4f84048c6c78787e70
